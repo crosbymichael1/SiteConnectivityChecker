@@ -1,0 +1,6 @@
+http://the-internet.herokuapp.com/status_codes/200
+http://the-internet.herokuapp.com/status_codes/301
+http://the-internet.herokuapp.com/status_codes/404
+http://the-internet.herokuapp.com/status_codes/500
+https://www.google.com
+https://yahoo.com
